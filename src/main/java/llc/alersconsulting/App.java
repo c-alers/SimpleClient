@@ -39,6 +39,6 @@ public class App implements ClientConfiguration
 
 	public String getConnectionURL() 
 	{
-		return "dataserver:8081";
+		return "ap-artdataservicetst-priv.nga.gov:8081";
 	}
 }
